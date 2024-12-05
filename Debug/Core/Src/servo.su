@@ -1,0 +1,6 @@
+../Core/Src/servo.c:19:6:Servo_Init	8	static
+../Core/Src/servo.c:30:6:Set_FrontBack	16	static
+../Core/Src/servo.c:40:6:Set_LeftRight	16	static
+../Core/Src/servo.c:50:6:Set_UpDown	16	static
+../Core/Src/servo.c:58:6:Open_Claw	4	static
+../Core/Src/servo.c:64:6:Close_Claw	4	static

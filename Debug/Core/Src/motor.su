@@ -1,0 +1,5 @@
+../Core/Src/motor.c:11:6:Motor_Init	8	static
+../Core/Src/motor.c:17:5:abs	16	static
+../Core/Src/motor.c:25:6:Set_Speed	16	static
+../Core/Src/motor.c:52:6:Control_Motor	16	static
+../Core/Src/motor.c:77:6:Distance_Follow	8	static

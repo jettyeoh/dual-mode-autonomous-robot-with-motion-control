@@ -1,0 +1,2 @@
+../Core/Src/bluetooth.c:15:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/bluetooth.c:41:6:ProcessReceivedData	24	static
